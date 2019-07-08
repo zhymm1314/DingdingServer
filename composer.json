@@ -1,0 +1,14 @@
+{
+    "name": "dingding-server/dingding-server",
+    "license": "MIT",
+    "keywords": ["dingding","server"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "xHai",
+            "email": "1260997901@qq.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability":"dev"
+}
